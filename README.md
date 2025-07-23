@@ -1,6 +1,7 @@
 ## Hi there 👋
+- 🧑‍🎓 I’m a Ph.D. candidate at Peking University.
 - 🔭 I’m currently working on LLMs, multimodality learning, and transferability.
-- 📫 How to reach me: brian_zwh@163.com, wh.zhang2@siat.ac.cn.
+- 📫 How to reach me: weihongzhang25@stu.pku.edu.cn, brian_zwh@163.com.
 - 💬 How to follow me: [Zhihu blog](https://www.zhihu.com/people/brainzzz-52), [Mainpage](https://brian-zzz.github.io).
 
 ![Brian's GitHub stats](https://github-readme-stats.vercel.app/api?username=brian-zZZ&show_icons=true&theme=vue)
