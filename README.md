@@ -1,8 +1,9 @@
 ## Hi there 👋
-- 🧑‍🎓 I’m a Ph.D. candidate at Peking University.
-- 🔭 I’m currently working on LLMs, multimodality learning, and transferability.
+- 🧑‍🎓 I’m a `Ph.D. candidate` at `Peking University`.
+- 🔭 I’m currently working on `Language Agents` and `Large Langauge Models`.
 - 📫 How to reach me: weihongzhang25@stu.pku.edu.cn, brian_zwh@163.com.
-- 💬 How to follow me: [Zhihu blog](https://www.zhihu.com/people/brainzzz-52), [Mainpage](https://brian-zzz.github.io).
+- 💬 How to follow me: [Mainpage](https://brian-zzz.github.io), [Zhihu blog](https://www.zhihu.com/people/brainzzz-52).
+- ⚡ If you are interested in **academic collaboration or discussion**, please do not hesitate to **drop me an email**!
 
 ![Brian's GitHub stats](https://github-readme-stats.vercel.app/api?username=brian-zZZ&show_icons=true&theme=vue)
 <!--
