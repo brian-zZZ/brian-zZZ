@@ -1,6 +1,6 @@
 ## Hi there 👋
 - 🧑‍🎓 I’m a `Ph.D. candidate` at `Peking University`.
-- 🔭 I’m currently working on `Language Agents` and `Large Langauge Models`.
+- 🔭 I’m currently working on `Self-evolving Agents` and `Large Langauge Models`.
 - 📫 How to reach me: weihongzhang25@stu.pku.edu.cn, brian_zwh@163.com.
 - 💬 How to follow me: [Mainpage](https://brian-zzz.github.io), [Zhihu blog](https://www.zhihu.com/people/brainzzz-52).
 - ⚡ If you are interested in **academic collaboration or discussion**, please do not hesitate to **drop me an email**!
